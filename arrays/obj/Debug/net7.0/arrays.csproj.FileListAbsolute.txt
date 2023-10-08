@@ -1,0 +1,15 @@
+/Users/leraspasibuhova/Documents/cyber_b_system/Git/thirdGit.lesson - 2/arrays/bin/Debug/net7.0/arrays
+/Users/leraspasibuhova/Documents/cyber_b_system/Git/thirdGit.lesson - 2/arrays/bin/Debug/net7.0/arrays.deps.json
+/Users/leraspasibuhova/Documents/cyber_b_system/Git/thirdGit.lesson - 2/arrays/bin/Debug/net7.0/arrays.runtimeconfig.json
+/Users/leraspasibuhova/Documents/cyber_b_system/Git/thirdGit.lesson - 2/arrays/bin/Debug/net7.0/arrays.dll
+/Users/leraspasibuhova/Documents/cyber_b_system/Git/thirdGit.lesson - 2/arrays/bin/Debug/net7.0/arrays.pdb
+/Users/leraspasibuhova/Documents/cyber_b_system/Git/thirdGit.lesson - 2/arrays/obj/Debug/net7.0/arrays.csproj.AssemblyReference.cache
+/Users/leraspasibuhova/Documents/cyber_b_system/Git/thirdGit.lesson - 2/arrays/obj/Debug/net7.0/arrays.GeneratedMSBuildEditorConfig.editorconfig
+/Users/leraspasibuhova/Documents/cyber_b_system/Git/thirdGit.lesson - 2/arrays/obj/Debug/net7.0/arrays.AssemblyInfoInputs.cache
+/Users/leraspasibuhova/Documents/cyber_b_system/Git/thirdGit.lesson - 2/arrays/obj/Debug/net7.0/arrays.AssemblyInfo.cs
+/Users/leraspasibuhova/Documents/cyber_b_system/Git/thirdGit.lesson - 2/arrays/obj/Debug/net7.0/arrays.csproj.CoreCompileInputs.cache
+/Users/leraspasibuhova/Documents/cyber_b_system/Git/thirdGit.lesson - 2/arrays/obj/Debug/net7.0/arrays.dll
+/Users/leraspasibuhova/Documents/cyber_b_system/Git/thirdGit.lesson - 2/arrays/obj/Debug/net7.0/refint/arrays.dll
+/Users/leraspasibuhova/Documents/cyber_b_system/Git/thirdGit.lesson - 2/arrays/obj/Debug/net7.0/arrays.pdb
+/Users/leraspasibuhova/Documents/cyber_b_system/Git/thirdGit.lesson - 2/arrays/obj/Debug/net7.0/arrays.genruntimeconfig.cache
+/Users/leraspasibuhova/Documents/cyber_b_system/Git/thirdGit.lesson - 2/arrays/obj/Debug/net7.0/ref/arrays.dll
