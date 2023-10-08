@@ -4,16 +4,14 @@
   <MonoDevelop.Ide.Workbench ActiveDocument="sortingArray/Program.cs">
     <Files>
       <File FileName="arrays/Program.cs" />
-      <File FileName="sortingArray/Program.cs" Line="14" Column="29" />
+      <File FileName="sortingArray/Program.cs" Line="18" Column="27" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="thirdGit.lesson - 2" expanded="True">
+          <Node name="thirdGit.lesson - 2">
             <Node name="arrays" expanded="True" />
-            <Node name="sortingArray">
-              <Node name="Program.cs" selected="True" />
-            </Node>
+            <Node name="sortingArray" expanded="True" />
           </Node>
         </State>
       </Pad>
